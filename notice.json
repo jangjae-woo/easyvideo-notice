@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "2026-03-22",
+  "lastUpdated": "2026-03-29",
   "sections": [
+    {
+      "title": "📢 v1.9.3 업데이트 안내",
+      "content": "<p style='margin-bottom:12px;color:#999;font-size:13px'>※ 현재 잘 사용하고 계시고 문제가 없다면 업데이트하지 않아도 무관합니다.</p><p style='margin-bottom:12px;color:#fbbf24;font-weight:bold'>v1.9.3 업데이트가 적용되었습니다.</p><p style='margin-bottom:8px'><b style='color:#a855f7'>1. Ctrl+F 페이지 내 텍스트 검색</b><br/>엔터로 검색, Shift+엔터로 이전 결과, ESC로 닫기</p><p style='margin-bottom:8px'><b style='color:#a855f7'>2. Edge TTS 탭 추가</b><br/>무료 무제한 TTS, API 키 불필요, 한/영/일/중 13개 음성 지원</p><p style='margin-bottom:8px'><b style='color:#a855f7'>3. Google TTS 미리듣기</b><br/>음성 생성 전 미리 확인 가능</p><p style='margin-bottom:8px'><b style='color:#a855f7'>4. Edge TTS 미리듣기</b><br/>음성 생성 전 미리 확인 가능</p><p style='margin-bottom:8px'><b style='color:#a855f7'>5. ElevenLabs v3 음질 개선</b><br/>긴 대본 시 900자 단위 자동 분할로 안정적 생성 (v3 모델)</p><p style='margin-bottom:8px'><b style='color:#a855f7'>6. 폰트 내보내기 수정</b><br/>Cafe24 써라운드 등 9개 폰트 내보내기 시 정상 적용</p><p style='margin-bottom:8px'><b style='color:#a855f7'>7. 씬분할 자동분할 기본값 변경</b><br/>자동분할 체크 해제 상태로 시작</p><p style='margin-bottom:8px'><b style='color:#a855f7'>8. 버튼별 가이드 안내지시서 추가</b><br/>각 기능 버튼에 사용 가이드 제공</p>"
+    },
     {
       "title": "⚠️ [긴급] 이지오토 — 그록 다운로드 버튼 설정 변경 안내",
       "content": "<p style='margin-bottom:12px;color:#fbbf24;font-weight:bold'>그록(Grok) UI가 변경되어 긴급 안내드립니다.</p><p style='margin-bottom:8px'>그록의 다운로드 버튼 위치가 변경되어, 이지오토에서 그록 액션이 실패할 수 있습니다.</p><p style='margin-bottom:12px'>아래 새 값으로 교체해주세요.</p><p style='margin-bottom:8px;font-weight:bold;color:#a855f7'>설정 방법</p><p style='margin-bottom:8px'>이지오토 → 그록 액션 설정 → <b>클릭(다운로드 버튼)</b> 항목에 아래 값을 붙여넣기:</p><p style='margin-bottom:12px;background:#0a0a1a;border:1px solid #3a2a50;border-radius:8px;padding:12px;font-family:monospace;font-size:12px;color:#4ade80;word-break:break-all;user-select:all'>&lt;path d=&quot;M10.8333 10.2799L13.5775 7.53581L14.7559 8.71419L10 13.4701L5.24414 8.71419L6.42253 7.53581L9.16667 10.2799V2.5H10.8333V10.2799Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;</p><p style='color:#999;font-size:12px'>※ 위 값을 그대로 복사하여 붙여넣으시면 됩니다.</p>"
