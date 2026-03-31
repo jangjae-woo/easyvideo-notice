@@ -3,7 +3,7 @@
   "sections": [
     {
       "title": "📢 v1.9.4 업데이트 안내",
-      "content": "<p style='margin-bottom:12px;color:#fbbf24;font-weight:bold'>v1.9.4 업데이트가 적용되었습니다.</p><p style='margin-bottom:8px'><b style='color:#a855f7'>화풍 젬스 전체 품질 개선</b><br/>01~17번 전체 프롬프트를 개선했습니다.<br/>특히 17번(2D 벡터경제)은 캐릭터 일관성이 대폭 향상되었습니다.<br/>18번(빈티지 세피아 스토리보드), 19번(3D 벡터경제) 2종이 새로 추가되었습니다.</p>"
+      "content": "<p style='margin-bottom:12px;color:#fbbf24;font-weight:bold'>v1.9.4 업데이트가 적용되었습니다.</p><p style='margin-bottom:8px'><b style='color:#a855f7'>화풍 젬스 전체 품질 개선</b><br/>특히 17번(2D 벡터경제)은 캐릭터 일관성이 대폭 향상되었습니다.<br/>18번(빈티지 세피아 스토리보드), 19번(3D 벡터경제) 2종이 새로 추가되었습니다.</p>"
     },
     {
       "title": "📢 v1.9.3 업데이트 안내",
